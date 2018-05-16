@@ -11,11 +11,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="assignment3.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="assignment3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignment3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="picklesample.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/picklesample.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -92,6 +101,7 @@
         <option value="$PROJECT_DIR$/assignment5.py" />
         <option value="$PROJECT_DIR$/assignment4.py" />
         <option value="$PROJECT_DIR$/assignment3.py" />
+        <option value="$PROJECT_DIR$/picklesample.py" />
       </list>
     </option>
   </component>
@@ -132,25 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignmenttest6">
-    <configuration name="assignment4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="OOPS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.picklesample">
     <configuration name="assignment5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="OOPS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,20 +215,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="picklesample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OOPS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/picklesample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.assignment4" />
       <item itemvalue="Python.assignment5" />
       <item itemvalue="Python.assignmenttest5" />
       <item itemvalue="Python.assignmenttest6" />
       <item itemvalue="Python.assignment6" />
+      <item itemvalue="Python.picklesample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.picklesample" />
         <item itemvalue="Python.assignmenttest6" />
         <item itemvalue="Python.assignment6" />
         <item itemvalue="Python.assignmenttest5" />
         <item itemvalue="Python.assignment5" />
-        <item itemvalue="Python.assignment4" />
       </list>
     </recent_temporary>
   </component>
@@ -264,6 +274,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1280" height="738" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32998326" />
@@ -271,9 +282,9 @@
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.319933" />
-      <window_info anchor="bottom" x="838" y="123" width="416" height="597" id="Run" order="10" weight="0.32663316" />
+      <window_info active="true" anchor="bottom" x="838" y="123" width="416" height="597" id="Run" order="10" visible="true" weight="0.32663316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32998326" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32998326" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.39865997" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -403,6 +414,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picklesample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
         </state>
       </provider>
     </entry>
